@@ -3,7 +3,7 @@
     "api":1,
     "name":"Generate UUID V4",
     "description":"Safely generate a UUID v4",
-    "author":"Kåre Blakstad",
+    "author":"@kareblak",
     "icon":"fingerprint",
     "tags":"uuid,generate,v4"
   }
